@@ -1,5 +1,9 @@
 # MCM_ToolBox
-A toolbox for MCM/ICM
+数模竞赛工具箱
+
+## Introduce
+本项目致力为为广大数模参赛选手提供一些基础的工具.
+祝大家通宵快乐XD.
 
 ## Content
 
