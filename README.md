@@ -1,8 +1,9 @@
 # MCM_ToolBox
 数模竞赛工具箱
 
-## Introduce
+## Background
 本项目致力为为广大数模参赛选手提供一些基础的工具.
+
 祝大家通宵快乐XD.
 
 ## Content
