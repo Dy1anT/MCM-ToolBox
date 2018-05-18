@@ -9,8 +9,8 @@
 ## Content
 
 * 预测代码
-    * [Logistic.m (Logistic模型)](https://github.com/Dy1aNT/MCM_ToolBox/blob/master/%E9%A2%84%E6%B5%8B%E6%A8%A1%E5%9E%8B/Logistic.m)
-    * [GM.m (灰色预测)](https://github.com/Dy1aNT/MCM_ToolBox/blob/master/%E9%A2%84%E6%B5%8B%E6%A8%A1%E5%9E%8B/GM.m)
+    * [Logistic.m (Logistic模型)](/预测模型/Logistic.m)
+    * [GM.m (灰色预测)](/预测模型/GM.m)
 * 指标权重 
     * 待填坑
     * 待填坑
