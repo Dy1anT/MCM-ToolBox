@@ -8,7 +8,7 @@
 
 ## Content
 
-* 预测代码
+* 预测模型
     * [Logistic.m (Logistic模型)](/预测模型/Logistic.m)
     * [GM.m (灰色预测)](/预测模型/GM.m)
 * 指标权重 
