@@ -22,7 +22,7 @@
     * [Least Squares.m (最小二乘法)](/参数拟合/Least_Squares.m)
     * 待填坑
 * 图论 
-    * 待填坑
+    * [Dijkstra.m (迪杰斯特拉算法)](/图论/dijkstra.m)
     * 待填坑
 * 排队论 
     * 待填坑
